@@ -1,6 +1,6 @@
 # Resal
 
-![resal logo](<brand & app logo.png>)
+![brand   app logo](https://github.com/ResalApps/e-store-ssot/assets/48950818/5a4e4934-f3f8-45ac-bcbd-a3fde0c048e0)
 ## About
 
 A leading Saudi company that enables individuals, companies and merchants to take full advantage of the digital value of prepaid cards and rewards and loyalty programs through innovative technical solutions
