@@ -7,10 +7,10 @@ A leading Saudi company that enables individuals, companies and merchants to tak
 
 ## Products/Services
 
-1. [Resal Reward](#https:/giftcards.resal.me)
-2. [Resal Boonus](#https://www.resal.me/ar/boonus/home)
-1. [Resal Channels](#https://www.resal.me/ar/channels/home)
-2. [Resal Xcard](##https://www.resal.me/ar/xcard/home)
+1. [Resal Reward](https:/giftcards.resal.me)
+2. [Resal Boonus](https://www.resal.me/ar/boonus/home)
+1. [Resal Channels](https://www.resal.me/ar/channels/home)
+2. [Resal Xcard](https://www.resal.me/ar/xcard/home)
    
 
 
