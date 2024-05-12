@@ -25,4 +25,4 @@ Familiarity with databases (e.g. MySQL, PostgreSQL, MongoDB).
 Excellent communication and teamwork skills.
 Degree in Computer Science, Statistics, or relevant fields.
 
-[Apply here](https://forms.gle/pv5dp4Fx9xjz8qQi6)
+[Apply here](https://forms.gle/wE38CBb9uE4x8SGS7)
